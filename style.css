@@ -152,10 +152,14 @@ body {
     width: 60%;
     height: 450px;
     background-color: orangered;
-    transform: rotateZ(-45deg);
+    transform: rotateZ(0deg);
     border-radius: 10px;
     box-shadow: 1px 1px 10px black;
+    transition: .3s;
 }
+.profile-pic:hover .bg {
+        transform: rotateZ(-45deg);
+    }
 
 
 .navigation {
