@@ -357,7 +357,7 @@ body {
 
 
 .work1 {
-    background-image: url('/Images/Codekaro-css.jpg');
+    background-image: url('./Images/Codekaro-css.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -365,7 +365,7 @@ body {
 }
 
 .work2 {
-    background-image: url('/Images/Cyber-Security.jpg');
+    background-image: url('./Images/Cyber-Security.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -373,7 +373,7 @@ body {
 }
 
 .work3 {
-    background-image: url('/Images/DBMS.jpg');
+    background-image: url('./Images/DBMS.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -381,7 +381,7 @@ body {
 }
 
 .work4 {
-    background-image: url('/Images/Gt-Learnning\ CSS.jpg');
+    background-image: url('./Images/Gt-Learnning\ CSS.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -389,7 +389,7 @@ body {
 }
 
 .work5 {
-    background-image: url('/Images/GT-Learnnig\ HTML.jpg');
+    background-image: url('./Images/GT-Learnnig\ HTML.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -397,7 +397,7 @@ body {
 }
 
 .work6 {
-    background-image: url('/Images/React.jpg');
+    background-image: url('./Images/React.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
